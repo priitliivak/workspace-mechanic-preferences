@@ -1,0 +1,9 @@
+# @title automatically enter at correct posittion
+# @description smart semicolon and smart braches
+# @audit_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Sun Mar 27 16:32:05 CEST 2011
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/smart_semicolon=true
+/instance/org.eclipse.jdt.ui/smart_opening_brace=true

@@ -1,0 +1,9 @@
+# @title Spaces for tabs
+# @description Use 4 spaces instead of one a tab in xml documents
+# @audit_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Sat Sep 03 17:17:46 CEST 2011
+file_export_version=3.0
+/instance/org.eclipse.wst.xml.core/indentationSize=4
+/instance/org.eclipse.wst.xml.core/indentationChar=space

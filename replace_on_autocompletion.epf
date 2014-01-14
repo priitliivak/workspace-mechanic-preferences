@@ -1,0 +1,8 @@
+# @title replace on autocompletion
+# @description instead of inserting the content of the completion smart replace the existing content
+# @audit_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Sun Mar 27 17:38:17 CEST 2011
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/content_assist_insert_completion=false

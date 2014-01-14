@@ -1,0 +1,9 @@
+# @title Maximum open editors
+# @description How many open editors can you manage. When over 15 you probably should use Open Type anyway.
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Tue Jan 14 18:17:21 EET 2014
+/instance/org.eclipse.ui.workbench/REUSE_OPEN_EDITORS=15
+/instance/org.eclipse.ui.workbench/REUSE_OPEN_EDITORS_BOOLEAN=true
+file_export_version=3.0

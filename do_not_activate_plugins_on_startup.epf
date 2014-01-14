@@ -1,0 +1,8 @@
+# @title Plugins NOT activated on startup
+# @description There is no need to activate bunch of plugins on startup that you do not use
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Tue Jan 14 17:59:33 EET 2014
+file_export_version=3.0
+/instance/org.eclipse.ui.workbench/PLUGINS_NOT_ACTIVATED_ON_STARTUP=org.eclipse.epp.mpc.ui;org.eclipse.equinox.p2.ui.sdk.scheduler;org.eclipse.jst.j2ee.webservice.ui;org.eclipse.jst.ws.jaxws.utils;org.eclipse.m2e.discovery;org.eclipse.mylyn.tasks.ui;org.eclipse.mylyn.team.ui;org.eclipse.rse.ui;org.springframework.ide.eclipse.maven;org.springsource.ide.eclipse.commons.frameworks.ui;org.springsource.ide.eclipse.commons.ui;
