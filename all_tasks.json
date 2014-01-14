@@ -6,9 +6,9 @@
     contact: 'priitliivak@gmail.com'
   },  
   tasks: [
-	https://github.com/signed/workspacemechanic-settings/blob/master/replace_on_autocompletion.epf,
-	https://github.com/signed/workspacemechanic-settings/blob/master/smart_semicolon_braces.epf,
-	https://github.com/signed/workspacemechanic-settings/blob/master/spaces_for_tabs_in_xml.epf,
-	use_utf8_encoding.epf
+	'https://github.com/signed/workspacemechanic-settings/blob/master/replace_on_autocompletion.epf',
+	'https://github.com/signed/workspacemechanic-settings/blob/master/smart_semicolon_braces.epf',
+	'https://github.com/signed/workspacemechanic-settings/blob/master/spaces_for_tabs_in_xml.epf',
+	'use_utf8_encoding.epf'
   ]
 }
