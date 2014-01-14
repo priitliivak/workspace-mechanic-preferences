@@ -1,0 +1,12 @@
+# @title Save actions
+# @description These should be project specific but if they are not then use these general options
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Tue Jan 14 19:45:59 EET 2014
+/instance/org.eclipse.jdt.ui/sp_cleanup.format_source_code=true
+/instance/org.eclipse.jdt.ui/sp_cleanup.make_variable_declarations_final=false
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/sp_cleanup.remove_trailing_whitespaces=true
+/instance/org.eclipse.jdt.ui/sp_cleanup.on_save_use_additional_actions=true
+/instance/org.eclipse.jdt.ui/editor_save_participant_org.eclipse.jdt.ui.postsavelistener.cleanup=true

@@ -1,0 +1,8 @@
+# @title Type Filters
+# @description You don't need everything in your autocomplete. Type filters helps you remove discouraged and probably useless references
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Tue Jan 14 19:51:39 EET 2014
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.typefilter.enabled=com.sun.*;java.awt.*;sun.*;
